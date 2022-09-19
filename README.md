@@ -4,3 +4,4 @@ Projeto de exemplo do uso do Riverpod para Gerenciamento de Estado compartilhado
 O app consiste de um aplicativo de notas ou lembretes, onde testamos filtros (inbox e archived), formas de visualização (coluna ou grid) e a reatividade ao adicionar uma nova nota. 
 
 
+https://www.youtube.com/watch?v=knY2antqYaY
